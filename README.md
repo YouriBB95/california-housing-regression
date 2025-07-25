@@ -70,7 +70,7 @@ cd california-housing-regression
 Created by **Youri Benschop ** – aspiring remote-ready, future-proof Data Scientist.  
 📧 Email: YouriBB95@outlook.com  
 🔗 LinkedIn: https://www.linkedin.com/in/youri-benschop-133045b1/  
-🌐 Portfolio: https://ruby-petroleum-57d.notion.site/Welcome-to-Notion-23bb6b65b21180d399e0d75d1198d151?source=copy_link
+🌐 Portfolio: https://ruby-petroleum-57d.notion.site/Youri-Benschop-Data-Science-Portfolio-23bb6b65b21180d399e0d75d1198d151?source=copy_link
 
 
 Feel free to reach out about collaborations, questions, or freelance work!
