@@ -60,3 +60,16 @@ cd california-housing-regression
 
 # Open the notebook
 # (recommended to use Google Colab or Jupyter Notebook)
+
+---
+
+---
+
+## 📬 Contact
+
+Created by **Youri Benschop ** – aspiring remote-ready, future-proof Data Scientist.  
+📧 Email: YouriBB95@outlook.com  
+🔗 LinkedIn: https://www.linkedin.com/in/youri-benschop-133045b1/  
+🌐 Portfolio: https://github.com/YouriBB95
+
+Feel free to reach out about collaborations, questions, or freelance work!
